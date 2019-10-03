@@ -1,6 +1,6 @@
 # TicTacToe GAME
 
-This project is an implementation of the popular TicTacToe game, for Android
+This project is an implementation of the popular TicTacToe game, for Android.
 
 ## Technologies Used
 * Kotlin
